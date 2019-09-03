@@ -9,3 +9,9 @@ sudo service apache2 status
 
 sudo service apache2 stop
 
+
+==========================
+
+Dockerfile
+
+FROM php:7.2-apache
